@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShEgor18)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorshul)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
@@ -11,6 +11,4 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00648B)
 
 ### Follow Me:
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id62944063)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ShulmanEgor)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sh.egor)
