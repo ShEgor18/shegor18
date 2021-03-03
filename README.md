@@ -1,7 +1,5 @@
 ## Hello!
 
-### I'm a Software Engineer
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorshul)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
